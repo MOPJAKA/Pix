@@ -1,0 +1,11 @@
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\bin\Debug\Programm.exe.config
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\bin\Debug\Programm.exe
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\bin\Debug\Programm.pdb
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.csproj.SuggestedBindingRedirects.cache
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.Form1.resources
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.Properties.Resources.resources
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.csproj.GenerateResource.cache
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.exe
+C:\Users\vetal\OneDrive\Рабочий стол\new programm\Programm\Programm\obj\Debug\Programm.pdb
