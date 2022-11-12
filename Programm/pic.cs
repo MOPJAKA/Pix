@@ -52,15 +52,17 @@ namespace Programm
             Bitmap Bitmap_Original = new Bitmap(Original);
             
             int r, g, b, K;
+
             if (Original.Width + Original.Height <= 1000)
                 K = 2;
             else if (Original.Height + Original.Width <= 3500)
                 K = 4;
             else
                 K = 8;
+
             int width_O = 0, height_O = 0, width_P, height_P;
 
-            for (int n = 1; n < 11; n++)
+            for (int n = 1; n <= 10; n++)
             {
                 width_P = Original.Width / K;
                 height_P = Original.Height / K;
